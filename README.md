@@ -28,7 +28,7 @@ Instruções:
   - Utilize imagens, diagramas ou tabelas para ilustrar as diferenças entre os modelos de serviço em nuvem e os tipos de programação.
   - Cite as fontes utilizadas na pesquisa.
 
-link: 
+link: https://github.com/natsalete/Sistemas-Distribuidos-ADS-IFTM/blob/main/Aula%2028_02_25_Atividade%20de%20Pesquisa%20_Sistemas%20Distribuidos.pdf
 
 ## Atv-03 - 07/03/25 - Envio de Código - Aula_Thread
 
@@ -44,4 +44,10 @@ link:
 │   ├── 📂 PrjServidorChat_Thread          
 
 ```
+
+---
+## Licença
+
+- Este repositório está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
+---
 
