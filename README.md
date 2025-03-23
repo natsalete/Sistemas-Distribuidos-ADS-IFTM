@@ -44,6 +44,18 @@ link: https://github.com/natsalete/Sistemas-Distribuidos-ADS-IFTM/blob/main/Aula
 │   ├── 📂 PrjServidorChat_Thread          
 
 ```
+## Atv-05 - 21/03/25 - Envio de Código - Interface em Java Swing para o cliente socket e Servidor Socket
+
+Por meio desta atividade, envie o exercício iniciado em sala, que consiste na criação de uma interface em Java Swing para o cliente socket. 
+
+Além disso, desenvolva e envie também uma interface em Java Swing que permita visualizar todas as mensagens que transitam pelo servidor socket. 
+
+```
+├── 📂  Interface em Java Swing para o cliente socket e Servidor Socket        
+│   ├── 📂 PrjClienteSocket_Thread     
+│   ├── 📂 PrjClienteSocket_Thread_Form         
+
+```
 
 ---
 ## Licença
