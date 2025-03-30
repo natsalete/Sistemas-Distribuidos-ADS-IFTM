@@ -52,8 +52,21 @@ Além disso, desenvolva e envie também uma interface em Java Swing que permita 
 
 ```
 ├── 📂  Interface em Java Swing para o cliente socket e Servidor Socket        
-│   ├── 📂 PrjClienteSocket_Thread     
-│   ├── 📂 PrjClienteSocket_Thread_Form         
+│   ├── 📂 PrjClienteSocket_Thread_Form     
+│   ├── 📂 PrjServidorChat_Thread_Form         
+
+```
+
+## Atv-06 - Aula 29/03/25 - Envio de Código - Chat com Form e filtro de palavras
+
+Por meio desta atividade, envie o exercício iniciado em sala, que consiste na criação de uma interface em Java Swing para o cliente socket. 
+
+Além disso, desenvolva e envie também uma interface em Java Swing que permita visualizar todas as mensagens que transitam pelo servidor socket. 
+
+```
+├── 📂  Aula Chat com Form e filtro de palavras        
+│   ├── 📂 PrjClienteSocket_Thread_Form_Filtro     
+│   ├── 📂 PrjClienteSocket_Thread_Form_Filtro        
 
 ```
 
