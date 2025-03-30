@@ -53,7 +53,7 @@ Além disso, desenvolva e envie também uma interface em Java Swing que permita 
 ```
 ├── 📂  Interface em Java Swing para o cliente socket e Servidor Socket        
 │   ├── 📂 PrjClienteSocket_Thread_Form     
-│   ├── 📂 PrjServidorChat_Thread_Form         
+│   ├── 📂 Prj_ServidorChat_Thread_Form         
 
 ```
 
@@ -66,7 +66,7 @@ Além disso, desenvolva e envie também uma interface em Java Swing que permita 
 ```
 ├── 📂  Aula Chat com Form e filtro de palavras        
 │   ├── 📂 PrjClienteSocket_Thread_Form_Filtro     
-│   ├── 📂 PrjClienteSocket_Thread_Form_Filtro        
+│   ├── 📂 PrjServidorChat_Thread_Form_Filtro        
 
 ```
 
