@@ -59,18 +59,22 @@ Além disso, desenvolva e envie também uma interface em Java Swing que permita 
 
 ## Atv-06 - Aula 29/03/25 - Envio de Código - Chat com Form e filtro de palavras
 
-Por meio desta atividade, envie o exercício iniciado em sala, que consiste na criação de uma interface em Java Swing para o cliente socket. 
-
-Além disso, desenvolva e envie também uma interface em Java Swing que permita visualizar todas as mensagens que transitam pelo servidor socket. 
-
 ```
 ├── 📂  Aula Chat com Form e filtro de palavras        
 │   ├── 📂 PrjClienteSocket_Thread_Form_Filtro     
 │   ├── 📂 PrjServidorChat_Thread_Form_Filtro        
 
 ```
+## Atv-07 - Aula 04/04/25 - Envio de Código - Projeto Java Web com Servlet
+
+```
+├── 📂  Prj_Web_SD      
+```
+
+https://github.com/user-attachments/assets/9f94136b-4fbb-4dc9-a6f7-738429958526
 
 ---
+
 ## Licença
 
 - Este repositório está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
