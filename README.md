@@ -81,6 +81,18 @@ https://github.com/user-attachments/assets/9f94136b-4fbb-4dc9-a6f7-738429958526
 │   ├── 📂 prj_petShop   
 ```
 
+## Prova 1
+
+Descrição:  [Prova1-SistDistribuidos.pdf](https://github.com/user-attachments/files/20266534/Prova1-SistDistribuidos.pdf)
+
+```
+├── 📂  TrabalhoProva       
+│   ├── 📂 Nsr_Carros    
+│   ├── 📂 Nsr_ClienteSocket1_Carros
+│   ├── 📂 Nsr_Servidor1_Carros
+│   ├── 📄 cadastro_carros
+ 
+```
 ---
 
 ## Licença
